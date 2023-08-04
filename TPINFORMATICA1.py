@@ -136,3 +136,4 @@ print('\nFin del programa.')
 
 
 print("cristiano > messi") 
+print('futbol' > 'beisbol')
