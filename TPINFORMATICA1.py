@@ -8,7 +8,7 @@ with open(path,"r", encoding='utf-8')as archivo:
     encabezado=next(archivo)
     
     tabla=[]
-    
+    print("pito")
     for linea in lectura:
         if linea[0] != '' and linea[0]!='Total general':
             linea[0]=linea[0].split("/") 
