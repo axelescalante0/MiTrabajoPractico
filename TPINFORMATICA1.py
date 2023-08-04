@@ -133,3 +133,6 @@ with open(nombre,'w',newline='')as arch:
         
 print('\nArchivo generado con exito!.')
 print('\nFin del programa.')
+
+
+print("cristiano > messi) 
